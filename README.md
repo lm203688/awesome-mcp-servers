@@ -123,6 +123,7 @@ Checkout [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/)
 * 🏢 - [Workplace & Productivity](#workplace-and-productivity)
 * 🛠️ - [Other Tools and Integrations](#other-tools-and-integrations)
 
+- [lm203688/aishield](https://github.com/lm203688/aishield) 🛡️ ☁️ – AI Agent security and compliance platform. Scan MCP servers for security risks, detect Chinese banned words, assess global expansion compliance, and provide AI capabilities (TTS, ASR, VLM, image/video generation). MCP protocol compatible.
 ### 🔗 <a name="aggregators"></a>Aggregators
 
 Servers for accessing many apps and tools through a single MCP server.
